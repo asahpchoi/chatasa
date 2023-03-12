@@ -1,2 +1,0 @@
-# chatasa
-Created with CodeSandbox
