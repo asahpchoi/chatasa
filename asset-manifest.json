@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chatasa/static/css/main.fc5c2c69.css",
-    "main.js": "/chatasa/static/js/main.c87c6b01.js",
+    "main.js": "/chatasa/static/js/main.abfcc471.js",
     "index.html": "/chatasa/index.html",
     "main.fc5c2c69.css.map": "/chatasa/static/css/main.fc5c2c69.css.map",
-    "main.c87c6b01.js.map": "/chatasa/static/js/main.c87c6b01.js.map"
+    "main.abfcc471.js.map": "/chatasa/static/js/main.abfcc471.js.map"
   },
   "entrypoints": [
     "static/css/main.fc5c2c69.css",
-    "static/js/main.c87c6b01.js"
+    "static/js/main.abfcc471.js"
   ]
 }
